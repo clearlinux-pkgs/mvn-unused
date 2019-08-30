@@ -4,7 +4,7 @@
 #
 Name     : mvn-unused
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : https://repo.maven.apache.org/maven2/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar
 Source0  : https://repo.maven.apache.org/maven2/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar
 Source1  : https://repo.maven.apache.org/maven2/org/spark-project/spark/unused/1.0.0/unused-1.0.0.pom
